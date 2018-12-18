@@ -1,6 +1,6 @@
 ## Meu Portfólio
 
-[GALVAO](https://cdn-images-1.medium.com/max/960/0*RcfwM4cBC_nHjvMa.)
+![GALVAO](https://cdn-images-1.medium.com/max/960/0*RcfwM4cBC_nHjvMa.)
 
 Gabriel Galvão de Medeiros, 18.
 
@@ -16,7 +16,17 @@ Hater de Biologia.
 
 **The last human**: | [https://galva1.github.io/LH/](url) |
 
-# Artes
+# Prêmios
+Menção honrosa no jogo NSM, 1 bimestre da matéria técnica _oficina_.
+![Arte](https://marcelomesmo.com/assets/img/oficina/mencao.png)
+
+Criatividade no jogo MCWWF, 2 bimestre da matéria técnica _oficina_.
+![Criatividade](https://marcelomesmo.com/assets/img/oficina/criatividade.png)
+
+Melhor arte no jogo The last human, 3 bimestre da matéria técnica _oficina_.
+!(MelhorArte)[https://marcelomesmo.com/assets/img/oficina/arte.png]
+
+
 
 ## Contatos
 
