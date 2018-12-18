@@ -6,10 +6,16 @@ Aluno do curso de programação de jogos digitais.
 
 Hater de Biologia.
 
-# Jogos # Artes
+# Jogos 
+# Artes
 
 ## Contatos
 
+1. Twitter:
+2. Email:
+
+- teste
+- teste 2
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
