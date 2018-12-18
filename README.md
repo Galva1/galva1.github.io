@@ -24,7 +24,7 @@ Criatividade no jogo MCWWF, 2 bimestre da matéria técnica _oficina_.
 ![Criatividade](https://marcelomesmo.com/assets/img/oficina/criatividade.png)
 
 Melhor arte no jogo The last human, 3 bimestre da matéria técnica _oficina_.
-!(MelhorArte)[https://marcelomesmo.com/assets/img/oficina/arte.png]
+![MelhorArte](https://marcelomesmo.com/assets/img/oficina/arte.png)
 
 
 
