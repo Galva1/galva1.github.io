@@ -18,8 +18,4 @@ Hater de Biologia.
 
 ## Contatos
 
-1. Twitter:
-2. Email:
-
-- teste
-- teste 2
+- Github: [https://github.com/Galva1](url)
