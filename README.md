@@ -8,6 +8,8 @@ Aluno do curso de programação de jogos digitais.
 
 Hater de Biologia.
 
+Amante de preguiças.
+
 # Jogos
 
 **NSM**: | [https://lemuelmarques.github.io/NSMTHEGAME/](url) |
