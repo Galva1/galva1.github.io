@@ -14,15 +14,15 @@ Amante de preguiças.
 
 [**NSM**](https://lemuelmarques.github.io/NSMTHEGAME/)
 
-![![Imagem1](NSM.png)(https://lemuelmarques.github.io/NSMTHEGAME/)]
+[![Imagem1](NSM.png)](https://lemuelmarques.github.io/NSMTHEGAME/)
 
 [**MC World Without Friendship**](https://ronaque.github.io/MCWWF/)
 
-![![Imagem2](MCWWF.png)(https://ronaque.github.io/MCWWF/)]
+[![Imagem2](MCWWF.png)](https://ronaque.github.io/MCWWF/)
 
 [**The last human**](https://galva1.github.io/LH/)
 
-![![Imagem3](TheLastHuman.png)(https://galva1.github.io/LH/)]
+[![Imagem3](TheLastHuman.png)](https://galva1.github.io/LH/)
 
 # Prêmios
 Menção honrosa no jogo NSM, 1 bimestre da matéria técnica _oficina_.
