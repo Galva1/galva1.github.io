@@ -18,7 +18,7 @@ Amante de preguiças.
 
 [**MC World Without Friendship**](https://ronaque.github.io/MCWWF/)
 
-![Imagem2](MCWWF)
+![Imagem2](MCWWF.png)
 
 [**The last human**](https://galva1.github.io/LH/)
 
