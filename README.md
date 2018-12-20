@@ -32,4 +32,4 @@ Melhor arte no jogo The last human, 3 bimestre da matéria técnica _oficina_.
 
 ## Contatos
 
-- Github: [https://github.com/Galva1](url)
+- Github: [https://github.com/Galva1](https://github.com/Galva1)
