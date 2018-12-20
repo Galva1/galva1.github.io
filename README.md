@@ -12,15 +12,15 @@ Amante de preguiças.
 
 # Jogos
 
-[**NSM**](https://lemuelmarques.github.io/NSMTHEGAME/)
+**NSM**
 
 <a href="https://lemuelmarques.github.io/NSMTHEGAME/" target="_blank"> ![Imagem1](NSM.png) </a>
 
-[**MC World Without Friendship**](https://ronaque.github.io/MCWWF/)
+**MC World Without Friendship**
 
 <a href="https://ronaque.github.io/MCWWF/" target="_blank"> ![Imagem2](MCWWF.png) </a>
 
-[**The last human**](https://galva1.github.io/LH/)
+**The last human**
 
 <a href="https://galva1.github.io/LH/" target="_blank"> ![Imagem3](TheLastHuman.png) </a>
 
