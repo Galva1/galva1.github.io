@@ -14,7 +14,6 @@ Amante de preguiças.
 
 [**NSM**](https://lemuelmarques.github.io/NSMTHEGAME/)
 
-[![Imagem1](NSM.png)](https://lemuelmarques.github.io/NSMTHEGAME/)
 <a href="https://lemuelmarques.github.io/NSMTHEGAME/" target="_blank"> ![Imagem1](NSM.png) </a>
 
 [**MC World Without Friendship**](https://ronaque.github.io/MCWWF/)
