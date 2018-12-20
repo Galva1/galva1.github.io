@@ -14,9 +14,15 @@ Amante de preguiças.
 
 [**NSM**](https://lemuelmarques.github.io/NSMTHEGAME/)
 
+![Imagem1](NSM.png)
+
 [**MC World Without Friendship**](https://ronaque.github.io/MCWWF/)
 
+![Imagem2](MCWWF)
+
 [**The last human**](https://galva1.github.io/LH/)
+
+![Imagem3](menu (1).png)
 
 # Prêmios
 Menção honrosa no jogo NSM, 1 bimestre da matéria técnica _oficina_.
@@ -27,7 +33,6 @@ Criatividade no jogo MCWWF, 2 bimestre da matéria técnica _oficina_.
 
 Melhor arte no jogo The last human, 3 bimestre da matéria técnica _oficina_.
 ![MelhorArte](https://marcelomesmo.com/assets/img/oficina/arte.png)
-
 
 
 ## Contatos
